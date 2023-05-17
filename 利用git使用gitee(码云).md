@@ -82,6 +82,16 @@ git clone git@gitee.com:isZiJuzi/some-function.git
 
 ![image-20230517151813055](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230517151813055.png)
 
+​		接下来执行上传命令（双引号内是自定义内容，为该文件的描述）：
+
+```
+git add .
+git commit -m "一些环境配置、方法"
+git push origin master
+```
+
+![image-20230517152845769](C:\Users\Administrator\AppData\Roaming\Typora\typora-user-images\image-20230517152845769.png)
+
 
 
 
